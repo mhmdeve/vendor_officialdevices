@@ -1,8 +1,0 @@
-===============
-26-01-2022
-===============
-Device Changelog:
-• Fixed hotspot issue for some users
-
-Notes:
-• Flash this update only if you had hotspot issue in previous build else dont.
