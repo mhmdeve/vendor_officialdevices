@@ -1,14 +1,28 @@
 {
-  "response": [
-    {
-      "datetime": 1643700720,
-      "size": 1455670231,
-      "filehash": "06e0a70c1fd3ff3a66350242dcd9c8d4",
-      "filename": "PixelPlusUI_4.1_guacamole-12.0-20220201-0732-OFFICIAL.zip",
-      "id": "0886093436b8ae7c4737b92886109355f181445c5dbe97dd3b3017ffc8f30918",
-      "romtype": "OFFICIAL",
-      "version": "4.1",
-      "url": "https://sourceforge.net/projects/evolutionx-guacamole/files/PixelPlusUI_4.1_guacamole-12.0-20220201-0732-OFFICIAL.zip/download"
-    }
-  ]
+	"response": [
+		{
+			"maintainer": "Lup Gabriel (gwolfu)",
+			"oem": "OnePlus",
+			"device": "OnePlus 7 Pro",
+			"filename": "crDroidAndroid-12.0-20220130-guacamole-v8.1.zip",
+			"download": "https://sourceforge.net/projects/crdroid/files/guacamole/8.x/crDroidAndroid-12.0-20220130-guacamole-v8.1.zip/download",
+			"timestamp": 1643543593,
+			"md5": "3ae52769656edf6e44d1d4d163222996",
+			"sha256": "d899dbf8f9b3e2ea943b410a2c29265571a6a5275bcb2d520f26be4560386bba",
+			"size": 943619553,
+			"version": "8.1",
+			"buildtype": "Weekly",
+			"forum": "https://forum.xda-developers.com/t/4184671",
+			"gapps": "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-S/",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://sourceforge.net/projects/crdroid/files/guacamole/8.x/recovery/",
+			"paypal": "https://paypal.me/gwolf2u",
+			"telegram": "https://t.me/crDroidOP7Pro",
+			"dt": "https://github.com/crdroidandroid/android_device_oneplus_guacamole",
+			"common-dt": "https://github.com/crdroidandroid/android_device_oneplus_sm8150-common",
+			"kernel": "https://github.com/crdroidandroid/android_kernel_oneplus_sm8150"
+		}
+	]
 }
