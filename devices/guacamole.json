@@ -1,7 +1,7 @@
 {
 	"response": [
 		{
-			"maintainer": "Lup Gabriel (gwolfu)",
+			"maintainer": "Master",
 			"oem": "OnePlus",
 			"device": "OnePlus 7 Pro",
 			"filename": "crDroidAndroid-12.0-20220130-guacamole-v8.1.zip",
@@ -11,9 +11,8 @@
 			"sha256": "d899dbf8f9b3e2ea943b410a2c29265571a6a5275bcb2d520f26be4560386bba",
 			"size": 943619553,
 			"version": "8.1",
-			"buildtype": "Weekly",
+			"buildtype": "Monthly",
 			"forum": "https://forum.xda-developers.com/t/4184671",
-			"gapps": "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-S/",
 			"firmware": "",
 			"modem": "",
 			"bootloader": "",
